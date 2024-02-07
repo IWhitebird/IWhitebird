@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shreyas Patange</h1>
-<h3 align="center">A passionate developer from</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwhitebird&label=Profile%20views&color=0e75b6&style=flat" alt="iwhitebird" /> </p>
 
